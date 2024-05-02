@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# macOS specific files
+*.DS_Store
+
+# folders
+/include
+/XCode
+/.vscode/*
+/out
+/.vs
+/lib
+
+# files
+CMakeSettings.json
+CMakePresets.json
+imgui.ini
+
+# exceptions
+!.vscode/launch.json

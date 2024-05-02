@@ -1,0 +1,12 @@
+[submodule "3rdParty/sdl"]
+	path = 3rdParty/sdl
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "3rdParty/imgui"]
+	path = 3rdParty/imgui
+	url = https://github.com/zhuzhile08/imgui.git
+[submodule "3rdParty/pfd"]
+	path = 3rdParty/pfd
+	url = https://github.com/samhocevar/portable-file-dialogs.git
+[submodule "3rdParty/fmt"]
+	path = 3rdParty/fmt
+	url = https://github.com/fmtlib/fmt.git
