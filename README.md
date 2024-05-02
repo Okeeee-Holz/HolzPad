@@ -1,2 +1,2 @@
 # HolzPad
- TextEditor from Holz for Holz
+ Text editor from Holz for Holz
