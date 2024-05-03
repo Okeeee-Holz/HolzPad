@@ -9,9 +9,6 @@ else ()
 	set(SHADER_COMPILE_COMMANDS_DIR ${CMAKE_SOURCE_DIR}/compileShader.sh)
 endif ()
 
-# find vulkan 
-find_package(Vulkan REQUIRED)
-
 # includes and stuff
 include_directories(
 PUBLIC
