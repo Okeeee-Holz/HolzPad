@@ -19,7 +19,7 @@
             },
             "osx": {
                 "MIMode": "lldb",
-                "program": "${workspaceFolder}/out/build/Debug/Tests/HolzPad/HolzPad"
+                "program": "${workspaceFolder}/out/build/Debug/HolzPad/HolzPad"
             }
         }
     ]
