@@ -26,6 +26,7 @@ PUBLIC
 
 set (HOLZPAD_SOURCE_FILES 
 	"src/main.cpp"
+	"src/big_window.cpp"
 )
 
 
